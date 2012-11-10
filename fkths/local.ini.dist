@@ -1,0 +1,4 @@
+[server]
+debug = true
+# url is used for generating links in scripts (e.g. cron)
+url = http://localhost:6506
