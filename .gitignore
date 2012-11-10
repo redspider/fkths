@@ -1,0 +1,21 @@
+# Local configuration
+
+/fkths/local.ini
+/logs
+
+# Generated files
+
+/fkths/cdn/less/app.css
+
+# Virtual environment stuff
+
+/bin
+/include
+/lib
+/local
+/share
+
+# Python stuff
+
+*.pyc
+.idea
